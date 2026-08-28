@@ -93,3 +93,4 @@ public class Amany {
        System.out.println("enter second number");
        int sum = firstnumber + secondnumber;
            return sum;}}
+
